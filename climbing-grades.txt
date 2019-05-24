@@ -1,4 +1,4 @@
-YDS	USA	French	Ewbanks Australia/NZ	UIAA	South Africa	British UK
+YDS USA	French	Ewbanks Australia/NZ	UIAA	South Africa	British UK
 3rd	1-	1	I	1	M 1a
 4th	1	2	I	2	M 1b
 Easy 5th	1+	3	I	5	M 1c
